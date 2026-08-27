@@ -1,19 +1,19 @@
 fileFormatVersion: 2
-guid: f510106872fc29a41865cb3f81d06c38
+guid: e645923aa549c084f87c24300f69f6cb
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5360556533625409862
-    second: collectibles_coin_royal_0
+      213: 4495286564629941159
+    second: collectibles_coin_gold_0
   - first:
-      213: -806338405361329907
-    second: collectibles_coin_royal_1
+      213: 3478451807674475653
+    second: collectibles_coin_gold_1
   - first:
-      213: -9050733582553916978
-    second: collectibles_coin_royal_2
+      213: -7710011298620616179
+    second: collectibles_coin_gold_2
   - first:
-      213: 2350119056828787631
-    second: collectibles_coin_royal_3
+      213: 8567495078372734399
+    second: collectibles_coin_gold_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -135,7 +135,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: collectibles_coin_royal_0
+      name: collectibles_coin_gold_0
       rect:
         serializedVersion: 2
         x: 5
@@ -150,14 +150,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: abeabdeeb3a7b95b0800000000000000
-      internalID: -5360556533625409862
+      spriteID: 7ab8a504057726e30800000000000000
+      internalID: 4495286564629941159
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: collectibles_coin_royal_1
+      name: collectibles_coin_gold_1
       rect:
         serializedVersion: 2
         x: 39
@@ -172,14 +172,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d09dea31e7f4fc4f0800000000000000
-      internalID: -806338405361329907
+      spriteID: 584a0cc4d71f54030800000000000000
+      internalID: 3478451807674475653
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: collectibles_coin_royal_2
+      name: collectibles_coin_gold_2
       rect:
         serializedVersion: 2
         x: 77
@@ -194,14 +194,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ec9dc2f62c5556280800000000000000
-      internalID: -9050733582553916978
+      spriteID: d025873c299800590800000000000000
+      internalID: -7710011298620616179
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: collectibles_coin_royal_3
+      name: collectibles_coin_gold_3
       rect:
         serializedVersion: 2
         x: 103
@@ -216,8 +216,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fabe72aa4dc4d9020800000000000000
-      internalID: 2350119056828787631
+      spriteID: fb57059916bd5e670800000000000000
+      internalID: 8567495078372734399
       vertices: []
       indices: 
       edges: []
@@ -236,10 +236,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      collectibles_coin_royal_0: -5360556533625409862
-      collectibles_coin_royal_1: -806338405361329907
-      collectibles_coin_royal_2: -9050733582553916978
-      collectibles_coin_royal_3: 2350119056828787631
+      collectibles_coin_gold_0: 4495286564629941159
+      collectibles_coin_gold_1: 3478451807674475653
+      collectibles_coin_gold_2: -7710011298620616179
+      collectibles_coin_gold_3: 8567495078372734399
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

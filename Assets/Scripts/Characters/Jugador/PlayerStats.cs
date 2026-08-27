@@ -1,3 +1,4 @@
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class PlayerStats : MonoBehaviour
@@ -7,6 +8,9 @@ public class PlayerStats : MonoBehaviour
 
     public int maxVida = 5;
     public int vidaActual;
+
+    public int totalNomalCoins = 0;
+    public int totalSpecialCoins = 0;
 
     void Awake()
     {
@@ -66,4 +70,18 @@ public class PlayerStats : MonoBehaviour
     {
         Debug.Log("El jugador ha muerto");
     }
+
+    public void AddNomalCoin(int valor)
+    {
+        totalNomalCoins += valor;
+        Debug.Log("Monedas: " + totalNomalCoins);
+        //aqui actualizamos ui ejemplo updatecoinui + llamada al manager sonido
+    }
+
+    public void AddSpecialCoin(int valor)
+    {
+        totalSpecialCoins += valor;
+        Debug.Log("Monedas especiales: " + totalSpecialCoins);
+    }
+
 }
